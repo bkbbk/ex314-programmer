@@ -1,6 +1,6 @@
 # EX-314 Programmer
-A Programmer for ICOM EX-314 RAM Board Based on Arduino Uno by BG1TPT and BIE1IH.
-Tested on IC-R71E. Should work on ICOM IC-745, IC-751, IC-271, IC-471 and IC-1271.
+A Programmer for ICOM EX-314 RAM Board Based on Arduino Uno by BG1TPT and BIE1IH.  
+Tested on IC-R71E. Should work on ICOM IC-745, IC-751, IC-271, IC-471 and IC-1271.  
 ![image](https://raw.githubusercontent.com/bkbbk/ex314-programmer/main/public/images/EX314_Programmer.JPG)
 
 # Project files
