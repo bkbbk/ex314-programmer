@@ -1,6 +1,7 @@
 # EX-314 Programmer
 A Programmer for ICOM EX-314 RAM Board Based on Arduino Uno by BG1TPT and BIE1IH.
 Tested on IC-R71E. Should work on ICOM IC-745, IC-751, IC-271, IC-471 and IC-1271.
+![image](https://raw.githubusercontent.com/bkbbk/ex314-programmer/main/public/images/EX314_Programmer.JPG)
 
 # Project files
 * **adapter** for the gerber files of the adapter PCB.
@@ -13,3 +14,4 @@ Tested on IC-R71E. Should work on ICOM IC-745, IC-751, IC-271, IC-471 and IC-127
 4. Click the button on the adapter to dump the data of EX-314, output to serial port and backup the data to EEPROM simultaneously.
 5. Press and hold the button for 1s to restore the data in EEPROM to EX-314.
 6. Press and hold the button for 5s to restore the original data in the program to EX-314.
+![image](https://raw.githubusercontent.com/bkbbk/ex314-programmer/main/public/images/Screenshot.png)
